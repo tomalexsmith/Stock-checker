@@ -4,6 +4,6 @@ Python-based stock checking application, currently only uses a CLI, however a GU
 
 &nbsp;
 
-![image](https://github.com/tomalexsmith/Stock-checker/assets/95169394/70c0cc23-3d3c-4222-9d9d-43fc0b5b278f)
+![image](https://i.pinimg.com/originals/6b/3c/a5/6b3ca5844f5b9bbad16a001f22226e8c.gif)
 
 
