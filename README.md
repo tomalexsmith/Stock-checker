@@ -1,6 +1,8 @@
 # _WIP_ Stock checker
 
-Python-based stock checking application, currently only uses a CLI, however a GUI will be implemented at some point.
+Python-based share price monitoring application, currently only uses a CLI, however a GUI will be implemented at some point.
+
+Also have plans to integrate flow into Alteryx server and build tableau dashboard based on selected shares.
 
 &nbsp;
 
